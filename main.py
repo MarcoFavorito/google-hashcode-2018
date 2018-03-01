@@ -1,14 +1,12 @@
 import sys
 
-from src.Input import Input
-from src.Output import Output
+from src.sol.random_solution import random_solution
+from src.utils import parse_input
 
 
 def main():
     filename = sys.argv[1]
-    with open(filename) as f:
-        input_obj = Input(*f.readline().split(" "))
-    # print(input_obj)
+    input_obj = parse_input(filename)
 
 
     # example of output
