@@ -1,100 +1,700 @@
-3 57 238 221
-3 68 82 244
-3 259 128 88
-3 190 16 165
-3 184 140 109
-3 13 25 245
-3 267 120 224
-3 20 215 54
-3 200 243 218
-3 185 104 240
-3 58 222 32
-3 53 283 250
-3 10 188 193
-3 264 299 169
-3 160 107 91
-3 270 291 86
-3 255 248 63
-3 203 145 229
-3 226 186 70
-3 266 293 296
-3 189 231 156
-3 151 155 239
-3 117 19 249
-3 146 254 27
-3 214 236 280
-3 108 256 213
-3 268 84 237
-3 126 180 43
-3 100 52 228
-3 93 271 130
-3 114 164 295
-3 71 167 285
-3 192 21 47
-3 14 290 3
-3 282 12 171
-3 277 163 17
-3 265 61 219
-3 297 134 194
-3 168 149 79
-3 40 247 78
-3 211 127 103
-3 102 37 106
-3 210 182 288
-3 59 94 159
-3 85 87 253
-3 279 206 64
-3 142 56 18
-3 217 196 97
-3 125 131 179
-3 111 110 157
-3 220 98 287
-3 191 133 89
-3 227 95 170
-3 158 242 132
-3 258 139 72
-3 118 11 172
-3 289 177 74
-3 246 233 36
-3 138 195 207
-3 263 6 113
-3 225 276 24
-3 234 73 5
-3 15 292 154
-3 39 75 152
-3 208 50 144
-3 199 230 121
-3 147 273 275
-3 49 34 150
-3 29 209 46
-3 66 116 115
-3 4 278 197
-3 173 251 166
-3 175 262 261
-3 202 80 38
-3 136 241 62
-3 35 83 187
-3 2 205 274
-3 119 272 99
-3 81 65 232
-3 48 76 286
-3 223 135 252
-3 148 8 23
-3 31 45 204
-3 9 162 33
-3 41 122 77
-3 294 216 298
-3 257 153 30
-3 44 51 198
-3 281 124 183
-3 176 137 178
-3 161 260 0
-3 129 284 7
-3 1 96 26
-3 60 181 42
-3 92 123 235
-3 22 105 69
-3 174 112 269
-3 90 143 55
-3 28 212 201
-3 141 101 67
+4 221 from_cell      = (264, 491)
+to_cell        = (445, 767)
+earliest_start = 14518
+latest_finish  = 16078 from_cell      = (378, 775)
+to_cell        = (546, 379)
+earliest_start = 21476
+latest_finish  = 22505 from_cell      = (584, 384)
+to_cell        = (416, 309)
+earliest_start = 23305
+latest_finish  = 23636
+2 216 from_cell      = (463, 972)
+to_cell        = (343, 532)
+earliest_start = 13263
+latest_finish  = 14196
+5 167 from_cell      = (47, 173)
+to_cell        = (657, 151)
+earliest_start = 12476
+latest_finish  = 13716 from_cell      = (681, 206)
+to_cell        = (756, 220)
+earliest_start = 17523
+latest_finish  = 17742 from_cell      = (700, 123)
+to_cell        = (650, 627)
+earliest_start = 22069
+latest_finish  = 22989 from_cell      = (759, 628)
+to_cell        = (584, 714)
+earliest_start = 23842
+latest_finish  = 24583
+1 0
+5 234 from_cell      = (319, 456)
+to_cell        = (229, 159)
+earliest_start = 9979
+latest_finish  = 10834 from_cell      = (234, 186)
+to_cell        = (599, 472)
+earliest_start = 13261
+latest_finish  = 14763 from_cell      = (593, 508)
+to_cell        = (380, 466)
+earliest_start = 13853
+latest_finish  = 14535 from_cell      = (365, 480)
+to_cell        = (606, 828)
+earliest_start = 21894
+latest_finish  = 23213
+2 36 from_cell      = (614, 915)
+to_cell        = (467, 258)
+earliest_start = 22780
+latest_finish  = 23941
+1 180
+1 33
+2 179 from_cell      = (732, 600)
+to_cell        = (101, 985)
+earliest_start = 15613
+latest_finish  = 19024
+6 65 from_cell      = (597, 94)
+to_cell        = (414, 473)
+earliest_start = 9045
+latest_finish  = 10227 from_cell      = (474, 470)
+to_cell        = (791, 895)
+earliest_start = 13658
+latest_finish  = 15396 from_cell      = (765, 854)
+to_cell        = (558, 344)
+earliest_start = 15115
+latest_finish  = 16592 from_cell      = (497, 303)
+to_cell        = (398, 239)
+earliest_start = 16330
+latest_finish  = 16838 from_cell      = (449, 270)
+to_cell        = (634, 260)
+earliest_start = 20096
+latest_finish  = 20380
+3 116 from_cell      = (378, 301)
+to_cell        = (367, 274)
+earliest_start = 11197
+latest_finish  = 11268 from_cell      = (400, 309)
+to_cell        = (6, 829)
+earliest_start = 19651
+latest_finish  = 20630
+2 296 from_cell      = (368, 900)
+to_cell        = (100, 744)
+earliest_start = 13935
+latest_finish  = 15080
+3 168 from_cell      = (528, 3)
+to_cell        = (709, 629)
+earliest_start = 9780
+latest_finish  = 12366 from_cell      = (687, 641)
+to_cell        = (161, 802)
+earliest_start = 13581
+latest_finish  = 14830
+2 54 from_cell      = (648, 494)
+to_cell        = (602, 487)
+earliest_start = 20154
+latest_finish  = 20301
+4 34 from_cell      = (557, 342)
+to_cell        = (412, 325)
+earliest_start = 12386
+latest_finish  = 12833 from_cell      = (524, 323)
+to_cell        = (593, 202)
+earliest_start = 13004
+latest_finish  = 13612 from_cell      = (588, 216)
+to_cell        = (166, 751)
+earliest_start = 15964
+latest_finish  = 17696
+1 108
+1 85
+3 275 from_cell      = (382, 819)
+to_cell        = (524, 475)
+earliest_start = 16592
+latest_finish  = 17089 from_cell      = (496, 532)
+to_cell        = (99, 956)
+earliest_start = 22048
+latest_finish  = 22970
+3 87 from_cell      = (460, 585)
+to_cell        = (320, 715)
+earliest_start = 23246
+latest_finish  = 23518 from_cell      = (317, 679)
+to_cell        = (306, 903)
+earliest_start = 23546
+latest_finish  = 24305
+1 41
+3 184 from_cell      = (78, 559)
+to_cell        = (207, 429)
+earliest_start = 9314
+latest_finish  = 9991 from_cell      = (188, 405)
+to_cell        = (689, 968)
+earliest_start = 11576
+latest_finish  = 13755
+3 164 from_cell      = (155, 104)
+to_cell        = (256, 845)
+earliest_start = 20747
+latest_finish  = 23566 from_cell      = (224, 842)
+to_cell        = (511, 752)
+earliest_start = 21285
+latest_finish  = 22475
+3 249 from_cell      = (525, 464)
+to_cell        = (476, 849)
+earliest_start = 15084
+latest_finish  = 16161 from_cell      = (473, 815)
+to_cell        = (21, 810)
+earliest_start = 24428
+latest_finish  = 24959
+2 99 from_cell      = (74, 501)
+to_cell        = (41, 936)
+earliest_start = 13169
+latest_finish  = 14788
+5 212 from_cell      = (81, 653)
+to_cell        = (220, 317)
+earliest_start = 16913
+latest_finish  = 17823 from_cell      = (266, 303)
+to_cell        = (201, 251)
+earliest_start = 18699
+latest_finish  = 18915 from_cell      = (216, 217)
+to_cell        = (681, 811)
+earliest_start = 18975
+latest_finish  = 21243 from_cell      = (673, 871)
+to_cell        = (682, 822)
+earliest_start = 22175
+latest_finish  = 22290
+7 110 from_cell      = (362, 356)
+to_cell        = (187, 802)
+earliest_start = 9443
+latest_finish  = 11604 from_cell      = (176, 758)
+to_cell        = (638, 250)
+earliest_start = 12027
+latest_finish  = 14412 from_cell      = (667, 211)
+to_cell        = (519, 12)
+earliest_start = 15402
+latest_finish  = 16367 from_cell      = (544, 27)
+to_cell        = (50, 758)
+earliest_start = 18105
+latest_finish  = 20470 from_cell      = (64, 691)
+to_cell        = (542, 750)
+earliest_start = 19184
+latest_finish  = 20394 from_cell      = (606, 724)
+to_cell        = (154, 616)
+earliest_start = 20196
+latest_finish  = 21068
+5 88 from_cell      = (443, 921)
+to_cell        = (201, 149)
+earliest_start = 11243
+latest_finish  = 12322 from_cell      = (210, 150)
+to_cell        = (387, 12)
+earliest_start = 12646
+latest_finish  = 13491 from_cell      = (290, 20)
+to_cell        = (274, 198)
+earliest_start = 15643
+latest_finish  = 16268 from_cell      = (248, 313)
+to_cell        = (16, 861)
+earliest_start = 19026
+latest_finish  = 19938
+2 75 from_cell      = (511, 975)
+to_cell        = (61, 830)
+earliest_start = 16361
+latest_finish  = 17811
+1 103
+2 80 from_cell      = (187, 940)
+to_cell        = (705, 485)
+earliest_start = 12443
+latest_finish  = 13461
+2 72 from_cell      = (171, 247)
+to_cell        = (177, 833)
+earliest_start = 20010
+latest_finish  = 20869
+6 8 from_cell      = (250, 700)
+to_cell        = (775, 980)
+earliest_start = 10030
+latest_finish  = 10984 from_cell      = (766, 849)
+to_cell        = (142, 568)
+earliest_start = 12736
+latest_finish  = 13809 from_cell      = (102, 526)
+to_cell        = (653, 936)
+earliest_start = 15482
+latest_finish  = 17709 from_cell      = (649, 946)
+to_cell        = (515, 598)
+earliest_start = 21159
+latest_finish  = 21894 from_cell      = (505, 566)
+to_cell        = (462, 286)
+earliest_start = 24060
+latest_finish  = 24865
+4 4 from_cell      = (62, 406)
+to_cell        = (534, 169)
+earliest_start = 12669
+latest_finish  = 14289 from_cell      = (506, 215)
+to_cell        = (254, 27)
+earliest_start = 15739
+latest_finish  = 16744 from_cell      = (277, 50)
+to_cell        = (126, 571)
+earliest_start = 17390
+latest_finish  = 18095
+2 7 from_cell      = (237, 432)
+to_cell        = (151, 805)
+earliest_start = 16506
+latest_finish  = 17940
+1 294
+2 148 from_cell      = (677, 424)
+to_cell        = (140, 795)
+earliest_start = 17379
+latest_finish  = 18358
+1 134
+5 162 from_cell      = (481, 80)
+to_cell        = (378, 665)
+earliest_start = 10777
+latest_finish  = 13072 from_cell      = (402, 665)
+to_cell        = (534, 695)
+earliest_start = 17202
+latest_finish  = 17416 from_cell      = (547, 716)
+to_cell        = (490, 315)
+earliest_start = 17725
+latest_finish  = 18263 from_cell      = (432, 268)
+to_cell        = (46, 910)
+earliest_start = 20167
+latest_finish  = 21514
+4 259 from_cell      = (557, 123)
+to_cell        = (345, 598)
+earliest_start = 8835
+latest_finish  = 10642 from_cell      = (367, 597)
+to_cell        = (298, 4)
+earliest_start = 10403
+latest_finish  = 12129 from_cell      = (311, 37)
+to_cell        = (382, 460)
+earliest_start = 13163
+latest_finish  = 14513
+4 159 from_cell      = (258, 224)
+to_cell        = (155, 726)
+earliest_start = 11556
+latest_finish  = 13248 from_cell      = (118, 755)
+to_cell        = (666, 938)
+earliest_start = 11562
+latest_finish  = 14039 from_cell      = (700, 775)
+to_cell        = (180, 863)
+earliest_start = 16395
+latest_finish  = 18092
+4 286 from_cell      = (188, 447)
+to_cell        = (264, 678)
+earliest_start = 18764
+latest_finish  = 19808 from_cell      = (265, 761)
+to_cell        = (98, 375)
+earliest_start = 21876
+latest_finish  = 22583 from_cell      = (223, 406)
+to_cell        = (165, 869)
+earliest_start = 22383
+latest_finish  = 23597
+4 246 from_cell      = (365, 600)
+to_cell        = (264, 566)
+earliest_start = 12706
+latest_finish  = 12908 from_cell      = (235, 572)
+to_cell        = (442, 955)
+earliest_start = 19618
+latest_finish  = 21544 from_cell      = (424, 969)
+to_cell        = (700, 870)
+earliest_start = 23612
+latest_finish  = 24299
+3 299 from_cell      = (54, 709)
+to_cell        = (389, 839)
+earliest_start = 11603
+latest_finish  = 12878 from_cell      = (337, 820)
+to_cell        = (59, 115)
+earliest_start = 14104
+latest_finish  = 15327
+2 203 from_cell      = (296, 47)
+to_cell        = (137, 570)
+earliest_start = 22183
+latest_finish  = 23150
+2 24 from_cell      = (253, 282)
+to_cell        = (343, 514)
+earliest_start = 13544
+latest_finish  = 13989
+2 133 from_cell      = (335, 910)
+to_cell        = (672, 443)
+earliest_start = 23564
+latest_finish  = 24999
+2 210 from_cell      = (442, 623)
+to_cell        = (797, 305)
+earliest_start = 14755
+latest_finish  = 15537
+7 62 from_cell      = (590, 695)
+to_cell        = (588, 238)
+earliest_start = 8811
+latest_finish  = 10121 from_cell      = (556, 242)
+to_cell        = (676, 208)
+earliest_start = 11440
+latest_finish  = 11771 from_cell      = (689, 105)
+to_cell        = (539, 684)
+earliest_start = 12475
+latest_finish  = 14107 from_cell      = (635, 751)
+to_cell        = (53, 218)
+earliest_start = 18963
+latest_finish  = 21150 from_cell      = (77, 359)
+to_cell        = (235, 3)
+earliest_start = 20099
+latest_finish  = 21294 from_cell      = (212, 48)
+to_cell        = (83, 988)
+earliest_start = 20656
+latest_finish  = 22952
+4 161 from_cell      = (631, 440)
+to_cell        = (210, 132)
+earliest_start = 10541
+latest_finish  = 12574 from_cell      = (275, 87)
+to_cell        = (499, 257)
+earliest_start = 20394
+latest_finish  = 21549 from_cell      = (324, 207)
+to_cell        = (432, 878)
+earliest_start = 21551
+latest_finish  = 23406
+5 127 from_cell      = (493, 783)
+to_cell        = (48, 358)
+earliest_start = 16842
+latest_finish  = 18899 from_cell      = (34, 371)
+to_cell        = (662, 736)
+earliest_start = 17910
+latest_finish  = 21172 from_cell      = (638, 730)
+to_cell        = (598, 46)
+earliest_start = 18829
+latest_finish  = 21212 from_cell      = (582, 50)
+to_cell        = (560, 74)
+earliest_start = 19931
+latest_finish  = 20019
+5 13 from_cell      = (550, 693)
+to_cell        = (454, 379)
+earliest_start = 10197
+latest_finish  = 11611 from_cell      = (534, 379)
+to_cell        = (563, 43)
+earliest_start = 20940
+latest_finish  = 21378 from_cell      = (583, 59)
+to_cell        = (384, 785)
+earliest_start = 21677
+latest_finish  = 23582 from_cell      = (416, 812)
+to_cell        = (386, 824)
+earliest_start = 21993
+latest_finish  = 22127
+3 260 from_cell      = (611, 950)
+to_cell        = (405, 339)
+earliest_start = 15963
+latest_finish  = 17940 from_cell      = (194, 336)
+to_cell        = (445, 462)
+earliest_start = 18980
+latest_finish  = 20119
+3 276 from_cell      = (495, 147)
+to_cell        = (33, 768)
+earliest_start = 17861
+latest_finish  = 20391 from_cell      = (47, 726)
+to_cell        = (5, 42)
+earliest_start = 22465
+latest_finish  = 24939
+3 136 from_cell      = (111, 316)
+to_cell        = (88, 590)
+earliest_start = 17142
+latest_finish  = 17676 from_cell      = (110, 606)
+to_cell        = (565, 611)
+earliest_start = 19681
+latest_finish  = 21028
+2 220 from_cell      = (287, 484)
+to_cell        = (750, 436)
+earliest_start = 12176
+latest_finish  = 13120
+2 92 from_cell      = (541, 897)
+to_cell        = (524, 912)
+earliest_start = 8980
+latest_finish  = 9035
+2 95 from_cell      = (191, 916)
+to_cell        = (425, 839)
+earliest_start = 24432
+latest_finish  = 24833
+2 58 from_cell      = (253, 706)
+to_cell        = (698, 330)
+earliest_start = 22175
+latest_finish  = 23962
+2 137 from_cell      = (426, 564)
+to_cell        = (793, 337)
+earliest_start = 12562
+latest_finish  = 13647
+6 290 from_cell      = (618, 558)
+to_cell        = (373, 771)
+earliest_start = 14644
+latest_finish  = 15166 from_cell      = (292, 766)
+to_cell        = (393, 28)
+earliest_start = 15583
+latest_finish  = 17315 from_cell      = (348, 7)
+to_cell        = (232, 841)
+earliest_start = 16171
+latest_finish  = 18759 from_cell      = (261, 817)
+to_cell        = (781, 455)
+earliest_start = 17031
+latest_finish  = 19919 from_cell      = (787, 556)
+to_cell        = (533, 18)
+earliest_start = 23346
+latest_finish  = 24893
+1 227
+2 193 from_cell      = (319, 195)
+to_cell        = (128, 970)
+earliest_start = 11013
+latest_finish  = 13484
+1 15
+5 218 from_cell      = (245, 963)
+to_cell        = (300, 523)
+earliest_start = 21132
+latest_finish  = 22726 from_cell      = (291, 444)
+to_cell        = (88, 53)
+earliest_start = 22862
+latest_finish  = 23808 from_cell      = (310, 10)
+to_cell        = (183, 153)
+earliest_start = 22991
+latest_finish  = 23751 from_cell      = (266, 66)
+to_cell        = (30, 370)
+earliest_start = 23621
+latest_finish  = 24333
+5 273 from_cell      = (461, 731)
+to_cell        = (626, 680)
+earliest_start = 12980
+latest_finish  = 13727 from_cell      = (641, 663)
+to_cell        = (50, 392)
+earliest_start = 14356
+latest_finish  = 16679 from_cell      = (6, 455)
+to_cell        = (131, 145)
+earliest_start = 17131
+latest_finish  = 18161 from_cell      = (127, 253)
+to_cell        = (521, 295)
+earliest_start = 24005
+latest_finish  = 24851
+5 150 from_cell      = (495, 283)
+to_cell        = (214, 702)
+earliest_start = 15754
+latest_finish  = 16472 from_cell      = (255, 715)
+to_cell        = (625, 28)
+earliest_start = 17210
+latest_finish  = 20620 from_cell      = (625, 46)
+to_cell        = (444, 685)
+earliest_start = 19799
+latest_finish  = 22222 from_cell      = (405, 734)
+to_cell        = (181, 765)
+earliest_start = 21645
+latest_finish  = 22247
+5 285 from_cell      = (601, 45)
+to_cell        = (694, 52)
+earliest_start = 11527
+latest_finish  = 11642 from_cell      = (621, 39)
+to_cell        = (399, 117)
+earliest_start = 12206
+latest_finish  = 13006 from_cell      = (400, 136)
+to_cell        = (569, 558)
+earliest_start = 15534
+latest_finish  = 16941 from_cell      = (587, 566)
+to_cell        = (259, 987)
+earliest_start = 21754
+latest_finish  = 22785
+2 225 from_cell      = (434, 910)
+to_cell        = (764, 227)
+earliest_start = 17238
+latest_finish  = 18466
+5 107 from_cell      = (415, 844)
+to_cell        = (72, 250)
+earliest_start = 8788
+latest_finish  = 10839 from_cell      = (31, 325)
+to_cell        = (197, 802)
+earliest_start = 11368
+latest_finish  = 12202 from_cell      = (203, 822)
+to_cell        = (547, 269)
+earliest_start = 20606
+latest_finish  = 22043 from_cell      = (528, 267)
+to_cell        = (653, 319)
+earliest_start = 24444
+latest_finish  = 24925
+2 74 from_cell      = (125, 217)
+to_cell        = (373, 584)
+earliest_start = 18068
+latest_finish  = 19897
+4 144 from_cell      = (686, 808)
+to_cell        = (640, 37)
+earliest_start = 12952
+latest_finish  = 15278 from_cell      = (720, 37)
+to_cell        = (449, 146)
+earliest_start = 20416
+latest_finish  = 21364 from_cell      = (291, 207)
+to_cell        = (569, 278)
+earliest_start = 21342
+latest_finish  = 21845
+6 56 from_cell      = (657, 187)
+to_cell        = (799, 894)
+earliest_start = 10418
+latest_finish  = 12122 from_cell      = (790, 935)
+to_cell        = (686, 121)
+earliest_start = 12617
+latest_finish  = 14630 from_cell      = (761, 85)
+to_cell        = (111, 567)
+earliest_start = 18517
+latest_finish  = 21011 from_cell      = (104, 452)
+to_cell        = (295, 268)
+earliest_start = 23203
+latest_finish  = 24477 from_cell      = (332, 100)
+to_cell        = (322, 292)
+earliest_start = 24411
+latest_finish  = 24709
+2 105 from_cell      = (768, 283)
+to_cell        = (770, 992)
+earliest_start = 18656
+latest_finish  = 19419
+2 18 from_cell      = (310, 667)
+to_cell        = (619, 598)
+earliest_start = 22833
+latest_finish  = 24007
+1 171
+3 187 from_cell      = (753, 836)
+to_cell        = (51, 812)
+earliest_start = 16253
+latest_finish  = 17539 from_cell      = (73, 801)
+to_cell        = (159, 839)
+earliest_start = 21238
+latest_finish  = 21389
+3 263 from_cell      = (92, 949)
+to_cell        = (494, 860)
+earliest_start = 10996
+latest_finish  = 12406 from_cell      = (532, 820)
+to_cell        = (600, 311)
+earliest_start = 22519
+latest_finish  = 23278
+2 38 from_cell      = (757, 681)
+to_cell        = (714, 387)
+earliest_start = 18373
+latest_finish  = 18879
+1 63
+4 125 from_cell      = (182, 183)
+to_cell        = (600, 283)
+earliest_start = 18134
+latest_finish  = 18995 from_cell      = (552, 276)
+to_cell        = (610, 72)
+earliest_start = 18433
+latest_finish  = 18943 from_cell      = (480, 43)
+to_cell        = (392, 959)
+earliest_start = 18758
+latest_finish  = 20533
+5 156 from_cell      = (170, 942)
+to_cell        = (236, 754)
+earliest_start = 13359
+latest_finish  = 14226 from_cell      = (274, 742)
+to_cell        = (563, 848)
+earliest_start = 13790
+latest_finish  = 14236 from_cell      = (584, 827)
+to_cell        = (235, 406)
+earliest_start = 17966
+latest_finish  = 20618 from_cell      = (154, 461)
+to_cell        = (673, 430)
+earliest_start = 18289
+latest_finish  = 20212
+2 261 from_cell      = (152, 641)
+to_cell        = (422, 394)
+earliest_start = 11222
+latest_finish  = 12106
+3 60 from_cell      = (456, 621)
+to_cell        = (283, 914)
+earliest_start = 10505
+latest_finish  = 11177 from_cell      = (264, 906)
+to_cell        = (722, 289)
+earliest_start = 22325
+latest_finish  = 23566
+7 200 from_cell      = (703, 709)
+to_cell        = (139, 701)
+earliest_start = 10104
+latest_finish  = 11341 from_cell      = (144, 703)
+to_cell        = (519, 468)
+earliest_start = 13832
+latest_finish  = 15642 from_cell      = (500, 484)
+to_cell        = (326, 286)
+earliest_start = 14589
+latest_finish  = 15685 from_cell      = (323, 264)
+to_cell        = (567, 428)
+earliest_start = 17801
+latest_finish  = 18318 from_cell      = (637, 404)
+to_cell        = (390, 535)
+earliest_start = 18038
+latest_finish  = 18766 from_cell      = (462, 543)
+to_cell        = (333, 827)
+earliest_start = 23266
+latest_finish  = 23929
+3 57 from_cell      = (238, 612)
+to_cell        = (138, 28)
+earliest_start = 19493
+latest_finish  = 20431 from_cell      = (200, 3)
+to_cell        = (212, 615)
+earliest_start = 19915
+latest_finish  = 21624
+3 19 from_cell      = (561, 555)
+to_cell        = (125, 269)
+earliest_start = 11932
+latest_finish  = 13489 from_cell      = (98, 353)
+to_cell        = (477, 757)
+earliest_start = 14323
+latest_finish  = 15842
+1 198
+2 213 from_cell      = (20, 131)
+to_cell        = (10, 783)
+earliest_start = 9134
+latest_finish  = 10135
+3 267 from_cell      = (358, 834)
+to_cell        = (26, 616)
+earliest_start = 9309
+latest_finish  = 9864 from_cell      = (56, 683)
+to_cell        = (445, 713)
+earliest_start = 21986
+latest_finish  = 22412
+2 44 from_cell      = (345, 370)
+to_cell        = (559, 458)
+earliest_start = 17768
+latest_finish  = 18276
+4 129 from_cell      = (517, 426)
+to_cell        = (689, 891)
+earliest_start = 10652
+latest_finish  = 12301 from_cell      = (715, 879)
+to_cell        = (347, 44)
+earliest_start = 11544
+latest_finish  = 14794 from_cell      = (357, 20)
+to_cell        = (505, 713)
+earliest_start = 12905
+latest_finish  = 14204
+3 79 from_cell      = (695, 831)
+to_cell        = (187, 311)
+earliest_start = 9634
+latest_finish  = 13086 from_cell      = (148, 374)
+to_cell        = (546, 448)
+earliest_start = 16900
+latest_finish  = 17773
+1 245
+4 226 from_cell      = (468, 170)
+to_cell        = (393, 237)
+earliest_start = 10469
+latest_finish  = 10633 from_cell      = (385, 37)
+to_cell        = (394, 416)
+earliest_start = 19327
+latest_finish  = 20364 from_cell      = (379, 411)
+to_cell        = (648, 412)
+earliest_start = 24453
+latest_finish  = 24952
+3 21 from_cell      = (189, 610)
+to_cell        = (630, 71)
+earliest_start = 18380
+latest_finish  = 20760 from_cell      = (654, 147)
+to_cell        = (732, 939)
+earliest_start = 19037
+latest_finish  = 20634
+4 113 from_cell      = (650, 286)
+to_cell        = (462, 484)
+earliest_start = 9773
+latest_finish  = 10980 from_cell      = (481, 487)
+to_cell        = (452, 191)
+earliest_start = 11746
+latest_finish  = 12251 from_cell      = (471, 167)
+to_cell        = (741, 819)
+earliest_start = 16795
+latest_finish  = 19208
+1 224
+2 91 from_cell      = (635, 475)
+to_cell        = (512, 992)
+earliest_start = 18217
+latest_finish  = 19244
+2 232 from_cell      = (426, 438)
+to_cell        = (603, 886)
+earliest_start = 13336
+latest_finish  = 15449
+3 166 from_cell      = (774, 580)
+to_cell        = (750, 449)
+earliest_start = 19730
+latest_finish  = 20195 from_cell      = (734, 467)
+to_cell        = (300, 833)
+earliest_start = 21919
+latest_finish  = 23595
