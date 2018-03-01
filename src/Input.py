@@ -1,11 +1,11 @@
 class Input(object):
     def __init__(self, rows, columns, vehicles, rides, bonus, steps):
-        self.rows       = rows
-        self.columns     = columns
-        self.vehicles   = vehicles
-        self.rides      = rides
-        self.bonus      = bonus
-        self.steps      = steps
+        self.rows       =  int(rows)
+        self.columns     = int(columns)
+        self.vehicles   =  int(vehicles)
+        self.rides      =  int(rides)
+        self.bonus      =  int(bonus)
+        self.steps      =  int(steps)
 
 
     def __str__(self):
