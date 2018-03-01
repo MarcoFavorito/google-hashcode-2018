@@ -9,30 +9,14 @@ def sol(input_obj: Input) -> Output:
 
     num_vehicles = input_obj.vehicles
 
-    id2vehicles = {k:Vehicle(k) for k in range(num_vehicles)}
-
-    # first rides
-    first_rides, second_rides = rides[:num_vehicles], rides[num_vehicles:]
-    for v in range(num_vehicles):
-        current_ride = first_rides[v]
-        current_vehicle = id2vehicles[v]
-        current_vehicle.rides.append(current_ride.id)
-        current_vehicle.move(current_ride.to_cell)
-
-    # already sorted
-    current_rides = second_rides
-
-    # list of vehicles for current round
-    current_round_vehicles = id2vehicles.values()
+    vehicles = [Vehicle(k) for k in range(num_vehicles)]
 
     # second rides
-    for ride in current_rides:
+    for ride in rides:
         # select vehicles for the current round
-        best_vehicle = min(current_round_vehicles, key=lambda x: distance(x.position, ride.from_cell))
+        best_vehicle = min(vehicles, key=lambda x: distance(x.position, ride.from_cell))
         best_vehicle.rides.append(ride.id)
         best_vehicle.move(ride.to_cell)
 
-
-
-    o = Output({vehicle_id: vehicle.rides for vehicle_id, vehicle in id2vehicles.items()})
+    o = Output({v.id: v.rides for v in vehicles})
     return o
