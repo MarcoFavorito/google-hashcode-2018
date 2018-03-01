@@ -4,4 +4,4 @@ class Output(object):
 
 
     def __str__(self):
-        return "\n".join("this vehicleis assigned %s ride: %s" % (v, l) for v,l in self.vehicles2rides.items())
+        return "\n".join(str(v) + " " + " ".join(map(str,l)) for v,l in self.vehicles2rides.items())
