@@ -11,10 +11,9 @@ def sol(input_obj: Input) -> Output:
 
     vehicles = [Vehicle(k) for k in range(num_vehicles)]
 
-    # second rides
     for ride in rides:
         # select vehicles for the current round
-        best_vehicle = min(vehicles, key=lambda x: distance(x.position, ride.from_cell))
+        best_vehicle = min(vehicles, key=lambda x: (distance(x.position, ride.from_cell), x.time))
         best_vehicle.rides.append(ride.id)
         best_vehicle.move(ride.to_cell)
 
