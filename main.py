@@ -8,7 +8,7 @@ def main():
     filename = sys.argv[1]
     with open(filename) as f:
         input_obj = Input(*f.readline().split(" "))
-    print(input_obj)
+    # print(input_obj)
 
 
     # example of output

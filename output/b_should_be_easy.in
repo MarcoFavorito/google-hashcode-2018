@@ -1,0 +1,8 @@
+rows     = 800
+columns  = 1000
+vehicles = 100
+rides    = 300
+bonus    = 25
+steps    = 25000
+
+this vehicleis assigned 1 ride: [0, 1]
