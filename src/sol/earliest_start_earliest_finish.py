@@ -9,13 +9,14 @@ def sol(input_obj: Input) -> Output:
     vehicles2rides = {k:[] for k in range(num_vehicles)}
 
     # first rides
-    first_rides, second_rides = rides[:num_vehicles+1], rides[num_vehicles+1:]
+    first_rides, second_rides = rides[:num_vehicles], rides[num_vehicles:]
     for v in range(num_vehicles):
-        vehicles2rides[v] = first_rides[v]
+        vehicles2rides[v].append(first_rides[v].id)
+
 
     # second rides
-
-
+    while second_rides:
+        pass
 
 
     return Output(vehicles2rides)

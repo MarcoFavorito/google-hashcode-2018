@@ -1,5 +1,6 @@
 class Ride(object):
-    def __init__(self, from_cell, to_cell, earliest_start, latest_finish):
+    def __init__(self, id,from_cell, to_cell, earliest_start, latest_finish):
+        self.id = id
         self.from_cell      = from_cell
         self.to_cell            = to_cell
         self.earliest_start = earliest_start

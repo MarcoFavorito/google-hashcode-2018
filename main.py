@@ -11,7 +11,7 @@ def main():
 
     # o = random_solution(input_obj)
     o = earliest_start_earliest_finish.sol(input_obj)
-    print(o)
+    print(str(o))
 
 
 

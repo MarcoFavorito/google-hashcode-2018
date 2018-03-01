@@ -8,7 +8,7 @@ def parse_input(filename):
         rides = []
         for r in range(input_obj.rides):
             from_1, from_2, to_1, to_2, earliest_start, latest_finish = list(map(int,f.readline().strip().split(" ")))
-            r = Ride((from_1, from_2), (to_1, to_2), earliest_start, latest_finish)
+            r = Ride(r, (from_1, from_2), (to_1, to_2), earliest_start, latest_finish)
             rides.append(r)
 
     input_obj.rides = rides
