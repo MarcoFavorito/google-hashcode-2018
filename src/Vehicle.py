@@ -1,7 +1,7 @@
 class Vehicle(object):
     def __init__(self, id):
         self.id = id
-        self.position= (0,0)
+        self.position = (0,0)
 
     #position deve essere una lista di 2 interi (x,y)
     def move(self, position):
