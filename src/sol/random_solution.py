@@ -8,9 +8,9 @@ def random_solution(input_obj: Input) -> Output:
     random.shuffle(rides_num)
     while rides_num:
         for v in range(1, input_obj.vehicles+1):
-            if rides_num:
-                if v not in vehicles2rides:
-                    vehicles2rides[v] = []
-                vehicles2rides[v].append(rides_num.pop())
+            if not rides_num:break
+            if v not in vehicles2rides:
+                vehicles2rides[v] = []
+            vehicles2rides[v].append(rides_num.pop())
 
     return Output(vehicles2rides)
